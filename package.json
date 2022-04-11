@@ -1,0 +1,11 @@
+{
+  "name": "nomad_typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "sunandbean <sunbin.vincent.kim@gmail.com>",
+  "license": "MIT",
+  "scripts":{
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
